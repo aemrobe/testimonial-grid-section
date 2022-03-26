@@ -49,7 +49,7 @@ in the near future, I want to focus on responsive design,css grid, css flexbox a
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@aemrobe](https://www.frontendmentor.io/profile/aemrobe)
+- Twitter - [@Aemro112](https://www.twitter.com/Aemro112)
 
 ## Acknowledgments
