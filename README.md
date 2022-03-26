@@ -30,7 +30,7 @@ screenshot for my solution/testimonial-grid-section mobile-view.png
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ live site URL](https://aemrobe.github.io/testimonial-grid-section/)
 
 ### Built with
 
