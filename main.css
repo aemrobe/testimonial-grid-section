@@ -62,13 +62,13 @@ main {
 }
 
 .customer-name {
-  font-size: 1.1rem; /*11px*/
+  font-size: 1.1rem; /*17.6px*/
   margin-bottom: 0.25rem; /*4px*/
 }
 
 .customer-role {
   opacity: 50%;
-  font-size: 0.95rem; /*12px*/
+  font-size: 0.95rem; /*15.2px*/
 }
 
 .customer__review--primary {
@@ -80,7 +80,7 @@ main {
 
 .customer__review--secondary {
   opacity: 70%;
-  font-size: 0.95rem; /*13px*/
+  font-size: 0.95rem; /*15.2px*/
   line-height: 1.4;
 }
 
@@ -162,15 +162,16 @@ main {
     grid-column: 4;
   }
 
-  .customer-name {
-    font-size: 1.1rem; /*11px*/
-    margin-bottom: 0.25rem; /*4px*/
-  }
+ .customer-name {
+  font-size: 1.1rem; /*17.6px*/
+  margin-bottom: 0.25rem; /*4px*/
+}
 
-  .customer-role {
-    opacity: 50%;
-    font-size: 0.95rem; /*12px*/
-  }
+.customer-role {
+  opacity: 50%;
+  font-size: 0.95rem; /*15.2px*/
+}
+
 
   .customer__review--primary {
     font-weight: 600;
@@ -181,7 +182,7 @@ main {
 
   .customer__review--secondary {
     opacity: 70%;
-    font-size: 0.85rem; /*13px*/
+    font-size: 0.85rem; /*13.6px*/
     line-height: 1.4;
   }
 }
